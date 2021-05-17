@@ -1,0 +1,6 @@
+Date/time: 16/12/2006/19:51:00 Power: 3.388 Voltage: 233.220
+Comparison Operations: 1
+Date/time: 16/12/2006/18:05:00 Power: 6.052 Voltage: 232.930
+Comparison Operations: 142
+Date/time: 16/12/2006/17:41:00 Power: 3.430 Voltage: 237.060
+Comparison Operations: 495
